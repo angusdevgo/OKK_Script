@@ -1,5 +1,16 @@
 [
   {
+    "id": "script_1787346984120",
+    "name": "摸鱼日报",
+    "author": "HoldEvan",
+    "version": "1.0.0",
+    "category": "社区插件",
+    "description": "无详细描述",
+    "downloads": 1,
+    "stars": 1,
+    "raw_url": "https:\/\/raw.githubusercontent.com\/angusdevgo\/OKK_Script\/main\/scripts\/script_1787346984120\/main.java"
+  },
+  {
     "id": "天气查询_1.0.2",
     "name": "天气查询",
     "author": "被吓哭的嘿壳",
