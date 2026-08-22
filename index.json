@@ -1,5 +1,16 @@
 [
   {
+    "id": "微博热搜",
+    "name": "微博热搜",
+    "author": "Angus",
+    "version": "1.0.0",
+    "category": "社区插件",
+    "description": "微博前十热点",
+    "downloads": 1,
+    "stars": 1,
+    "raw_url": "https:\/\/raw.githubusercontent.com\/angusdevgo\/OKK_Script\/main\/scripts\/微博热搜\/main.java"
+  },
+  {
     "id": "历史今天",
     "name": "历史今天",
     "author": "HoldEvan",
